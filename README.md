@@ -71,7 +71,7 @@ hrm_api/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/hrm_api.git
+git clone https://github.com/ramadan2327/hrm_api.git
 cd hrm_api
 ```
 
@@ -192,5 +192,14 @@ MIT License — see LICENSE file for details.
 ---
 
 ## Authors
+## Group Members
 
-PROG315 Group3 Project — Limkokwing University of Creative Technology, Sierra Leone
+| Name | Role |
+|---|---|
+| Ramadan Kamara | Backend Developer & Project Lead |
+| Alhaji Kesuma Kamara | Database & Authentication |
+| Dwight Doherty | API Design & Documentation |
+
+PROG315 — Object Oriented Programming 2
+Limkokwing University of Creative Technology, Sierra Leone
+Semester 4 — March 2026 to July 2026
