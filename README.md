@@ -71,7 +71,7 @@ hrm_api/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ramadan2327/hrm_api.git
+git clone https://github.com/ramadan2327/hrm-api.git
 cd hrm_api
 ```
 
@@ -121,10 +121,9 @@ uvicorn app.main:app --reload
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@limkokwing.edu.sl | Admin1234 |
-| Manager | sarah@limkokwing.edu.sl | Manager1234 |
-| Employee | alice@limkokwing.edu.sl | Employee1234 |
-
+| Admin    | ramadan@limkokwing.edu.sl | Admin1234    |
+| Manager  | kesuma@limkokwing.edu.sl  | Manager1234  |
+| Employee | dwight@limkokwing.edu.sl  | Employee1234 |
 ---
 
 ## API Endpoints
